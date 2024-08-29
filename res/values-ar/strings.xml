@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
-    <string name="WAIT">"انتظر …"</string>
+    <string name="WAIT">"أنتظر …"</string>
     <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
@@ -123,7 +123,7 @@
     <string name="Unknown">"غير معروف"</string>
     <string name="Offline">"غـيـر مُـتَـصِـل"</string>
     <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
-    <string name="REFRESH">"تحديث"</string>
+   <string name="REFRESH">"تحديث"</string>
     <string name="DONE">"تَـم"</string>
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
@@ -163,7 +163,7 @@
     <string name="Ludicrous_Gulp">"ابتلاع لا يصدق"</string>
 
     <string name="Blobicide">"قاتل الدوائر"</string>
-    <string name="Blobtrocity">"مستبد الدوائر"</string>
+    <string name="Blobtrocity">"مُستبد الدوائر"</string>
     <string name="Blobaccre">"مفترس الدوائر"</string>
     <string name="Blobastrophe">"ملتهم الدوائر"</string>
     <string name="Blobihilation">"مبيد الدوائر"</string>
@@ -183,24 +183,24 @@
     <string name="Survivalist">"المكافح"</string>
     <string name="Ultramassive">"العملاق"</string>
     <string name="Rapid_Ascension">"الصعود السريع"</string>
-    <string name="Revenge">"انتقام"</string>
+    <string name="Revenge">"أنتقام"</string>
     <string name="Doge_Pound">"جامع الكلاب"</string>
 
-    <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
-    <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
-    <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
-    <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
-    <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_100_000_dots">"استيعاب ١٠٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_1_000_000_dots">"استيعاب ١،٠٠٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_50_dots">"إستيعاب ٥٠ نقطة"</string>
+    <string name="Absorb_300_dots">"إستيعاب ٣٠٠ نقطة"</string>
+    <string name="Absorb_1_000_dots">"إستيعاب ١٠٠٠ نقطة"</string>
+    <string name="Absorb_5_000_dots">"إستيعاب ٥٠٠٠ نقطة"</string>
+    <string name="Absorb_10_000_dots">"إستيعاب ١٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_50_000_dots">"إستيعاب ٥٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_100_000_dots">"إستيعاب ١٠٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_1_000_000_dots">"إستيعاب ١،٠٠٠،٠٠٠ النقاط"</string>
 
-    <string name="Absorb_4_blobs_quickly">"استيعاب ٤ من الدوائر بسرعة"</string>
-    <string name="Absorb_8_blobs_quickly">"استيعاب ٨ من الدوائر بسرعة"</string>
-    <string name="Absorb_16_blobs_quickly">"استيعاب ١٦ من الدوائر بسرعة"</string>
-    <string name="Absorb_24_blobs_quickly">"استيعاب ٢٤ من الدوائر بسرعة"</string>
-    <string name="Absorb_32_blobs_quickly">"استيعاب ٣٢ من الدوائر بسرعة"</string>
-    <string name="Absorb_40_blobs_quickly">"استيعاب ٤٠ من الدوائر بسرعة"</string>
+    <string name="Absorb_4_blobs_quickly">"إستيعاب ٤ من الدوائر بسرعة"</string>
+    <string name="Absorb_8_blobs_quickly">"إستيعاب ٨ من الدوائر بسرعة"</string>
+    <string name="Absorb_16_blobs_quickly">"إستيعاب ١٦ من الدوائر بسرعة"</string>
+    <string name="Absorb_24_blobs_quickly">"إستيعاب ٢٤ من الدوائر بسرعة"</string>
+    <string name="Absorb_32_blobs_quickly">"إستيعاب ٣٢ من الدوائر بسرعة"</string>
+    <string name="Absorb_40_blobs_quickly">"إستيعاب ٤٠ من الدوائر بسرعة"</string>
 
     <string name="Absorb_8_player_blobs_without_restarting">"استيعاب ٨ من دوائر اللاعبين دون إعادة التشغيل"</string>
     <string name="Absorb_16_player_blobs_without_restarting">"استيعاب ١٦ من دوائر اللاعبين دون إعادة التشغيل"</string>
@@ -221,10 +221,10 @@
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"لعب ٥ دقائق مباشرة دون الإصطدام مع أي ثقب أسود"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"لعب ٥ دقائق مباشرة دون أن تفقد أي دائرة"</string>
     <string name="Play_20_minutes_straight_without_restarting">"لعب ٢٠ دقيقة مباشرة دون إعادة تشغيل"</string>
-    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"استيعاب ٥ من الثقوب السوداء بعد ٣٠ ثانية من البداية"</string>
+    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"إستيعاب ٥ من الثقوب السوداء بعد ٣٠ ثانية من البداية"</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"الوصول إلى ٥٠٠٠ درجة في حدود ١ دقيقة من البداية"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"اطلاق ثقب أسود على آخر لاعب أطلق عليك ثقب أسود قبل إعادة التشغيل"</string>
-    <string name="Absorb_5_doges_without_restarting">"استيعاب ٥ من اللاعبين بصورة الكلب دون إعادة تشغيل"</string>
+    <string name="Absorb_5_doges_without_restarting">"إستيعاب ٥ من اللاعبين بصورة الكلب دون إعادة تشغيل"</string>
 
     <string name="Friends">" الأصدقاء"</string>
     <string name="Dots_Eaten_">"النقاط المأكولة:"</string>
